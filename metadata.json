@@ -1,0 +1,5 @@
+{
+  "name": "CogniTrace - Adaptive Knowledge Tracing",
+  "description": "A demonstration of Knowledge Tracing algorithms using Generative AI. It visualizes how a student's mastery is estimated and updated in real-time based on adaptive assessment.",
+  "requestFramePermissions": []
+}
